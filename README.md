@@ -6,6 +6,10 @@
 
 This app converts a fully functioning Google Books API search engine built with a RESTful API into a GraphQL API built with Apollo Server. Uses the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
+![Screenshot](<./assets/images/images/booksearch(1).png>)
+
+![Screenshot](<./assets/images/images/booksearch(2).png>)
+
 ## Deployed application Link
 
 https://sleepy-dawn-31613.herokuapp.com/
@@ -35,6 +39,8 @@ https://youtu.be/MLqIsII9Wdo
 ### License:
 
 [![badge](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
+
+### Screenshot:
 
 ### Questions:
 
